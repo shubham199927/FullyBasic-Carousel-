@@ -1,0 +1,12 @@
+.container{
+    margin: auto;
+    border: 1px solid red;
+    padding: 2%;
+}
+.holder{
+    margin: auto;
+    border: 1px solid  blue;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
